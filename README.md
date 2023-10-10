@@ -1,4 +1,4 @@
-![React](https://github.com/mushlihun/public-assets/blob/master/reactailwind/notus-react.jpg?raw=true)
+![React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/notus-react/notus-react.jpg)
 
 ### A beautiful UI Kit and Admin for Tailwind CSS and React.
 
